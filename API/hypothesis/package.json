@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jose": "^3.12.2",
+    "jose": "^4.15.5",
     "node-fetch": "^2.6.7"
   }
 }
